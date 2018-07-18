@@ -1,3 +1,5 @@
+# 把项目从gradle转化为maven,便于后续开发
+
 <p xmlns:dct="http://purl.org/dc/terms/">
   <a rel="license"
      href="http://creativecommons.org/publicdomain/zero/1.0/">
